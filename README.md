@@ -37,7 +37,6 @@ NODE_ENV = development
 DATABASE=your mongodb uri
 PORT=8000 
 JWT_SECRET=laksdfhjflasdsh
-
 ```
 
 ---
@@ -46,7 +45,6 @@ JWT_SECRET=laksdfhjflasdsh
 
 ```
 npm install
-
 ```
 
 ---
